@@ -75,7 +75,7 @@ The application provides clear feedback and validation:
    ```bash
    git clone https://github.com/Ali-Kfupm/202322750-ALIALORYD-assignment2.git
 
-2. Open the project in VS Code and install Live Server from extensions:
+2. Open the project in VS Code and install Live Server from extensions
 
 3. Right-click index.html
 
